@@ -1,4 +1,4 @@
-name: ci pipe
+name: test pipe
 on:
     push:
         branches: [ "main" ]

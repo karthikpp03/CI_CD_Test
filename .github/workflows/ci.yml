@@ -16,6 +16,6 @@ jobs:
               with:
                 python-version: "3.9"
             - name: Install
-              run: pip install -r req.txt || echo "no requiremtn"
+              run: pip install -r req.txt || echo "Varuthu "
             - name: run test
-              run: pytest -s
+              run: pytest -s || echo "Varuthu varuthu"

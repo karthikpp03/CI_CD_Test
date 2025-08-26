@@ -19,3 +19,4 @@ jobs:
               run: pip install -r req.txt || echo "Varuthu "
             - name: run test
               run: pytest -s || echo "Varuthu varuthu"
+            
